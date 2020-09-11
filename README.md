@@ -1,7 +1,5 @@
 # Omnitea
 Thème simple avec un code simple à modifier et à adapter en fonction de vos goûts.
-
-##
 Le logo et le nom de ce thème sont à votre disposition pour toutes utilisations que ce soit commercial ou non.
 Inspirer de "Tailwind Starter Kit" crée par @creativetimofficial
 
